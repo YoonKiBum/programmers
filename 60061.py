@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/60061
 def check(answer):
     for i in range(len(answer)):
         x, y, a = answer[i]
