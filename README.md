@@ -6,3 +6,4 @@
 ### Level 1
   * 크레인 인형뽑기 게임: ([Python 코드](/Level1/64061.py))
   * 두 개 뽑아서 더하기: ([Python 코드](/Level1/68644.py))
+  * 완주하지 못한 선수: ([Python 코드](/Level1/42576.py))
