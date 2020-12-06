@@ -9,6 +9,11 @@
   * 완주하지 못한 선수: ([Python 코드](/Level1/42576.py))
   * 모의고사: ([Python 코드](/Level1/42840.py))
   * k번째 수: ([Python 코드](/Level1/42748.py))
+  * 체육복: ([Python 코드](/Level1/42862.py))
+  * 2016년: ([Python 코드](/Level1/12901.py))
+  * 3진법 뒤집기: ([Python 코드](/Level1/68935.py))
+  * 가운데 글자 가져오기: ([Python 코드](/Level1/12903.py))
+  * 같은 숫자는 싫어: ([Python 코드](/Level1/12906.py))
   
 ### 카카오공채
   * 자물쇠와 열쇠: ([Python 코드](/카카오공채/60059.py))
